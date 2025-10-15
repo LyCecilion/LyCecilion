@@ -130,7 +130,7 @@ H/W path  Device       Class       Description
 ---
 
 ```bash
-[stellalyrin@lumious ~]$ cat /dev/entanglement
+[stellalyrin@lumious ~]$ cat /dev/dryice-cc
 ```
 
 <div align="center">

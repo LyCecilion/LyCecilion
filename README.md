@@ -23,7 +23,9 @@ Welcome to LUMiOUS!
 
 <div align="center">
 
+<!--
 ![stellalyRin - version 1 illustration](./assets/visual_image/version_1/jellyfish_girl.png)
+-->
 
 # 🪼 stellalyRin / 星澜音 🌌
 

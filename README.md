@@ -107,7 +107,7 @@ bin@          home/  lib64@  opt/         sbin@   usr/
 
 ```plain
 H/W path  Device       Class       Description
-=============================================
+==============================================
 /1/0/0    hwmate60pp   smartphone  Huawei Mate60 Pro+
 /1/1/0    mipad7p      tablet      XIAOMI Pad 7 Pro
 /1/2/0    oppowatchx2  smartwatch  OPPO Watch X2

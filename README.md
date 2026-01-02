@@ -33,6 +33,8 @@ Life's a binary, and I'm looking for the vulnerability.
 
 ![README Views](https://komarev.com/ghpvc/?username=LyCecilion&color=blue)
 
+(suspended due to a recent kernel panic)
+
 </div>
 
 ---

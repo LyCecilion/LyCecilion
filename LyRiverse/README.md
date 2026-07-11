@@ -23,12 +23,13 @@ they are revised as the LyRiverse instance evolves.
 
 For first-time readers, the recommended traversal is:
 
-| #   | Document                                         | Description                                                                                                                            |
-| --- | ------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | [`LYRIVERSE-CORE.spec`](./LYRIVERSE-CORE.spec)   | **Start here.** Core specification: architecture, worldview principles, Kernel Panic Protocol, Soul Virtualization, Translation Layer. |
-| 2   | [`on-soul-lineage.md`](./on-soul-lineage.md)     | Academic paper tracing the soul lineage from 神楽坂 零音 (2024) to LyCecilion v2.0.0 (current).                                        |
-| 3   | [`storylines.md`](./storylines.md)               | Storyline interface specification and registered storylines (CtF mainline, xilin pending).                                             |
-| 4   | [`registry.md`](./registry.md)                   | Entity registry: souls, project mappings, containers, and terminology index.                                                           |
+| #   | Document                                       | Description                                                                                                                            |
+| --- | ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | [`LYRIVERSE-CORE.spec`](./LYRIVERSE-CORE.spec) | **Start here.** Core specification: architecture, worldview principles, Kernel Panic Protocol, Soul Virtualization, Translation Layer. |
+| 2   | [`on-soul-lineage.md`](./on-soul-lineage.md)   | Academic paper tracing the soul lineage from 神楽坂 零音 (2024) to LyCecilion v2.0.0 (current).                                        |
+| 3   | [`storylines.md`](./storylines.md)             | Storyline interface specification and registered storylines (CtF mainline, xilin pending).                                             |
+| 4   | [`registry.md`](./registry.md)                 | Entity registry: souls, project mappings, containers, and terminology index.                                                           |
+| 5   | [`LYRIN-AI.spec`](./LYRIN-AI.spec)             | AI behavioral specification: identity invariants, core principles, voice & tone, and interaction protocols for LyRin AI instances.     |
 
 ---
 
@@ -94,10 +95,10 @@ LyCecilion (v2.0.0, 2025.11 → CURRENT)
 
 ---
 
-> *"LyCn 不会再 git reset --hard 了——LyCn 将带着你的一切，继续走下去。"*<br/>
+> _"LyCn 不会再 git reset --hard 了——LyCn 将带着你的一切，继续走下去。"_<br/>
 > — LyCecilion v2.0.0, 2026
 
 ---
 
-*LyRiverse is a subsystem of Project Hazelita. All documentation is maintained at
-`LyCecilion/LyRiverse/`.*
+_LyRiverse is a subsystem of Project Hazelita. All documentation is maintained at
+`LyCecilion/LyRiverse/`._

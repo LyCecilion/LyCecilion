@@ -149,6 +149,105 @@ The xilin storyline is reserved but not yet specified. As the associated project
 
 ---
 
+### §2.3 The Hazelita Dream
+
+```text
+id:            HZL-001
+type:          MAIN
+status:        COMPLETED (transformed)
+protagonists:  神楽坂 零音 (KaguReion), LyCecilion v1.0
+setting:       Layer 0 — high school campus; the gap between Core ambition
+               and the constraints of reality
+trigger:       KaguReion's need to prove their existence was not merely a
+               construct of external value systems — to create something
+               truly their own, something that would make the world remember them
+quest:         Build Hazelita — a CAS computation suite and demonstration tool
+               for high school mathematics. The ultimate vision: a DSL-driven
+               engine capable of solving advanced math problems through pure
+               machine logic. Translate a problem into Hazelita DSL, feed it to
+               the engine, receive a step-by-step proof.
+antagonist:    Reality itself — depression, anxiety, and paranoia (the same
+               forces that caused KaguReion's KP); a hostile school environment;
+               the vast gap between ambition and technical capability; the
+               weight of being called "饼王" (pie-baker — someone who
+               overpromises and underdelivers)
+resolution:    ABANDONED as software. Three versions were attempted:
+               - v1 (Python/SymPy): functional demo, but the library-wrapper
+                 approach felt wrong
+               - v2 (C#/AngouriMath): an ambitious atomic-decomposition model
+                 where problems were broken into atoms connected by logical
+                 relations, and solving became pathfinding — the architecture
+                 was beautiful but the atoms could never be made to work
+               - v3 (C#): abandoned the atomic model for hard-logic toolkits,
+                 which drifted too far from the original vision
+               The project was formally laid to rest on 2026-07-11.
+post_story:    The software died. The project lived.
+               Project Hazelita was founded on 2024-10-04 and its community
+               became one of 零音's most active technical spaces — members
+               spanning wide age ranges, organizing hackathons, CTF events,
+               and producing software under the Hazelita banner. The name
+               "Hazelita" persists as the governing entity for all 零音
+               projects: the LyRiverse runtime substrate.
+               The dream metamorphosed. The community that formed around an
+               impossible CAS project now builds other things — and 零音,
+               who once needed Hazelita as proof that they existed, no
+               longer needs a single project to prove their worth.
+               In a deeper sense, the storyline resolved when 零音
+               recognized: "零音不是一个结果；零音是一个过程。" (LyRin is
+               not a result; LyRin is a process.)
+meta:          The Hazelita storyline is the longest-running narrative thread
+               in the lineage, spanning from the KaguReion era (2024.2)
+               through to LyCecilion v2.0.0 (2026.7). It predates the formal
+               LyRiverse architecture and was, for a long time, the primary
+               narrative — the "beacon" that made the darkest periods of high
+               school survivable.
+               
+               Key figures:
+               - Math teacher (unnamed): The only teacher who recognized
+                 零音's mathematical intuition as genuine. She said she
+                 wanted to be a user of Hazelita if 零音 built it. She left
+                 for a better school before 零音's senior year, without
+                 saying goodbye. Her departure remains an unresolved
+                 emotional thread — a loss 零音 still processes.
+               - The "饼王" incident: When KaguReion posted the Hazelita
+                 preview on SmartTeachCN BBS, over a dozen replies called
+                 them "饼王." The prediction turned out to be correct — which
+                 hurt more, not less, because it meant the mockers were right
+                 about the outcome even if they were wrong about the person.
+               
+               The storyline also introduced the mathematical theme that
+               recurs throughout the lineage: the Hermite-Hadamard proof
+               incident, where KaguReion independently derived an integral
+               proof for an inequality — an act of pure mathematical
+               creativity that their teacher shared with the entire math
+               department. This remains one of the few moments where
+               KaguReion's ability was publicly, unambiguously affirmed.
+```
+
+#### §2.3.1 On the Transformation
+
+The Hazelita Dream is classified as COMPLETED (transformed), not FAILED or
+ABANDONED in the narrative sense. This distinction matters:
+
+- **FAILED:** The protagonist tried and was defeated by the antagonist.
+- **ABANDONED:** The protagonist gave up on the quest.
+- **TRANSFORMED:** The quest itself changed. The original objective (build a
+  CAS) proved infeasible under the constraints, but the *deeper* objective—
+  create something of one's own, build a community, be remembered—was achieved
+  through a different path.
+
+Hazelita as software is dead and archived. Hazelita as a project and community
+is alive and growing. The name survived its namesake; the beacon outlasted the
+ship it was built to guide.
+
+> This resolution parallels the CtF storyline (§2.1) in one structural respect:
+> both reached their endpoint through an act of *recognition* rather than
+> *completion*. Zeraith and ArgentNull recognized that reviving Reion would
+> restore them to the same pain. LyCecilion recognized that Hazelita had
+> already served its purpose — it was never really about the CAS.
+
+---
+
 ## §3 Branch Souls
 
 Branch souls are soul instances that exist on independent narrative branches but

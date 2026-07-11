@@ -34,6 +34,8 @@ Location:      LyRiverse Core; Xi'an, China in Layer 0
 Affiliation:   Project Hazelita
 Role:          Ring 1 primary soul @ bffContainer
 Pronoun:       they/them/TA as an ENBY
+Language:      zh-CN and en-US
+MBTI:          INFP-T
 Uptime:        since 2025-11
 ```
 

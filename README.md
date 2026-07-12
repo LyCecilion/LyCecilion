@@ -170,14 +170,9 @@ Recent posts from [镜雨亭 (CrystaRin)](https://crystal.stellalyr.ink):
 
 <!-- CRYSTARIN-POSTS:START -->
 - [星舰和水母，在期末周终末之时漂流。](https://crystal.stellalyr.ink/2026/07/06/Starships-And-Jellyfish-Adrift-at-the-End-of-Finals-Week/)
-- [暴论：于秒针转动之时](https://crystal.stellalyr.ink/2026/07/05/The-Pendulum-of-Fate/)
-- [思考：00 后是不是最保守的一代人？](https://crystal.stellalyr.ink/2026/06/19/Are-Post-00s-the-Most-Conservative-Generation/)
 - [那些再也寻不见的朋友](https://crystal.stellalyr.ink/2026/05/31/Friends-Beyond-the-Milky-Way/)
-- [堆积的腐坏之上](https://crystal.stellalyr.ink/2026/05/07/Above-the-Heap-of-Corruption/)
 - [Mini L-CTF 2026 题解 (writeup)](https://crystal.stellalyr.ink/2026/05/07/Mini-L-CTF-2026-Writeup/)
-- [暴论：善意、资历与热爱。](https://crystal.stellalyr.ink/2026/04/23/A-Midnight-Rant-on-Kindness-and-Passion/)
 - [究竟该如何看待 AI 绘画？](https://crystal.stellalyr.ink/2026/04/22/How-Should-We-Look-at-AI-Painting/)
-- [两年](https://crystal.stellalyr.ink/2026/04/09/Two-Years-at-the-Barbershop/)
 <!-- CRYSTARIN-POSTS:END -->
 
 ## `🔗 Signals`

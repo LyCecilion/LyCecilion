@@ -95,7 +95,9 @@ a documented [soul lineage](./LyRiverse/on-soul-lineage.md), and a growing
 
 ## `📡 /now`
 
-// TBD.
+Maintaining my own infrastructure.
+
+Expected to learn C/C++, Git, Linux fundamentals and operations, Unix tool usage, and CTF knowledge.
 
 ## `🔑 PGP`
 
@@ -162,10 +164,6 @@ Alibaba Cloud Linux 3.2104 U13.1 (OpenAnolis Edition).
 ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## `📝 // TODO:`
-
-Pending.
-
 ## `📜 Changelog`
 
 Recent posts from [镜雨亭 (CrystaRin)](https://crystal.stellalyr.ink):
@@ -184,7 +182,18 @@ Recent posts from [镜雨亭 (CrystaRin)](https://crystal.stellalyr.ink):
 
 ## `🔗 Signals`
 
-Pending.
+Email to `LyCecilion@outlook.com`, or contact me at:
+
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/stellalyr.ink)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LyCecilion)
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@stellalyRin)
+[![QQ](https://img.shields.io/badge/QQ-1E6FFF?style=for-the-badge&logo=qq&logoColor=white)](https://qm.qq.com/q/foLRQQBW6I)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/LyCecilion)
+[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/182330206)
+[![Zhihu](https://img.shields.io/badge/Zhihu-0084FF?style=for-the-badge&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/NebuDr1ft)
+[![Xiaohongshu](https://img.shields.io/badge/Xiaohongshu-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://xhslink.com/m/49kRhHc3e7y)
+
+My Telegram account was deactivated due to prolonged inactivity, but expected to be restored in the future.
 
 ## `📊 Runtime Metrics`
 

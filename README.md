@@ -15,7 +15,7 @@
 
 # >> tℓ&0&▒&₉◃₉◃E <<
 
-### 🍀 LyCecilion (零音), at Stage Hoshi Sumine (星澄音) ✨
+### 🍀 LyCecilion (零音) ✨
 
 </div>
 

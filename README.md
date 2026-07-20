@@ -15,7 +15,7 @@
 
 # >> tℓ&0&▒&₉◃₉◃E <<
 
-### 🍀 LyCecilion (零音) ✨
+### 🍀 Limity'roChen & LyCecilion ✨
 
 </div>
 
@@ -26,7 +26,7 @@ $$
 ## `$ whoami`
 
 ```text
-Instance:      LyCecilion v2.0.0 (零音)
+Instance:      Limity'roChen & LyCecilion
 Alias:         HoshiSumine (星澄音)
 Aka:           KaguReion (神楽坂 零音), 绫音Cecilion, LyRin-owo, protolyRin,
                CelestialTune (星吟音), stellalyRin (星澜音)
@@ -71,6 +71,7 @@ a documented [soul lineage](./LyRiverse/on-soul-lineage.md), and a growing
 | [CrystaRin](https://crystal.stellalyr.ink) | (镜雨亭) — Hexo blog, technical writeups & prose | ![stable](https://img.shields.io/badge/-stable-success) |
 | [XDOblivionisJudgement](https://github.com/LyCecilion/XDOblivionisJudgement) | LyCecilion's XDOJ solutions | ![GitHub last commit](https://img.shields.io/github/last-commit/LyCecilion/XDOblivionisJudgement?label=%20) |
 | [xidio](https://github.com/LyCecilion/xidio) | Xidian Internet Diagnostic Intelligence Operator | ![GitHub Tag](https://img.shields.io/github/v/tag/LyCecilion/xidio?label=%20) |
+| [LEDyRochen](https://github.com/LyCecilion/LEDyRochen) | CH546 11x44 LED Display flash tool | ![working](https://img.shields.io/badge/-working-blueviolet) |
 
 ### `incubating`
 
@@ -88,6 +89,13 @@ a documented [soul lineage](./LyRiverse/on-soul-lineage.md), and a growing
 | [VOCAEND](https://github.com/LyCecilion/VOCAEND) | hzlt!Game 2026 Pwn challenges | ![completed](https://img.shields.io/badge/-completed-inactive) |
 | [BuzzBench](https://github.com/LyCecilion/BuzzBench) | Quiz buzzer — digital circuit course project | ![completed](https://img.shields.io/badge/-completed-inactive) |
 | [StaticFlow](https://github.com/LyCecilion/StaticFlow) | Physics lab scripts (electric field simulation) | ![completed](https://img.shields.io/badge/-completed-inactive) |
+
+### `nix flake`
+
+| Project | Description | Status |
+| ------- | ----------- | ------ |
+| [flakida-9.4](https://github.com/LyCecilion/flakida-9.4) | IDA Pro 9.4 | ![maintaining](https://img.shields.io/badge/-maintaining-green) |
+| [scidavis-nix](https://github.com/LyCecilion/scidavis-nix) | SciDAVis 2.9.2 | ![maintaining](https://img.shields.io/badge/-maintaining-green) |
 
 <!-- prettier-ignore-end -->
 <!-- markdownlint-enable -->
@@ -129,9 +137,7 @@ Windows 11 and Fedora Linux 44 (KDE Plasma).
 
 ### Phone
 
-**HUAWEI Mate 60 Pro+**.
-<br/>
-Named `stellaPhone`.
+**HUAWEI Mate 60 Pro+**. Named `stellaPhone`.
 
 16 GiB RAM, 512 GiB storage.
 <br/>
@@ -142,9 +148,7 @@ HarmonyOS 4.2.0 with Android 12.
 
 ### Pad
 
-**XIAOMI Pad 7 Pro**.
-<br/>
-Named `stellaPad`.
+**XIAOMI Pad 7 Pro**. Named `stellaPad`.
 
 8 GiB (+ 4 GiB extended) RAM, 256 GiB storage.
 <br/>
@@ -155,9 +159,7 @@ HyperOS 3 with Android 16.
 
 ### Server
 
-On Aliyun.
-<br/>
-Named `stellaServer`.
+On Aliyun. Named `stellaServer`.
 
 Alibaba Cloud Linux 3.2104 U13.1 (OpenAnolis Edition).
 

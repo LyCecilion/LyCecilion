@@ -171,6 +171,7 @@ Alibaba Cloud Linux 3.2104 U13.1 (OpenAnolis Edition).
 Recent posts from [镜雨亭 (CrystaRin)](https://crystal.stellalyr.ink):
 
 <!-- CRYSTARIN-POSTS:START -->
+- [Fedora 44 上调试 Brother DCP-7057 驱动全记录](https://crystal.stellalyr.ink/2026/07/19/Debugging-a-Silent-Brother-Printer-on-Fedora-44/)
 - [星舰和水母，在期末周终末之时漂流。](https://crystal.stellalyr.ink/2026/07/06/Starships-And-Jellyfish-Adrift-at-the-End-of-Finals-Week/)
 - [那些再也寻不见的朋友](https://crystal.stellalyr.ink/2026/05/31/Friends-Beyond-the-Milky-Way/)
 - [Mini L-CTF 2026 题解 (writeup)](https://crystal.stellalyr.ink/2026/05/07/Mini-L-CTF-2026-Writeup/)

@@ -4,6 +4,7 @@
 
 ![Jellyfish Hero](./assets/jellyfish-hero.svg)
 
+<!--
 > They knew not the truth of their own being—<br/>
 > the road cleaved in agony from the primeval mire had long been ground to dust by oblivion;<br/>
 > the path ahead, where thorns veil the sky and no end reveals itself, was never once lit by a single star.<br/>
@@ -14,8 +15,9 @@
 > like the final hush before the gods closed their eyes.
 
 # >> tℓ&0&▒&₉◃₉◃E <<
+-->
 
-### 🍀 Limity'roChen & LyCecilion ✨
+# 🍀 LyCecilion ✨
 
 </div>
 
@@ -50,9 +52,11 @@ a declaratively constructed personal universe with three architectural layers,
 a documented [soul lineage](./LyRiverse/on-soul-lineage.md), and a growing
 [entity registry](./LyRiverse/registry.md).
 
+<!--
 > _"The little jellyfish, even as an ENBY, even wounded, even once on the verge of
 > falling from depression and bipolar, could still live this brilliantly after the
 > storm—could still win awards; could still be loved."_
+-->
 
 ## `📦 Loaded Modules`
 
@@ -117,6 +121,8 @@ Type:    ed25519
 
 [`public.asc`](./public.asc) is available in this repository.
 
+<!--
+
 ## `💻 Physical Layer`
 
 ### Workstation
@@ -165,6 +171,8 @@ Alibaba Cloud Linux 3.2104 U13.1 (OpenAnolis Edition).
 
 ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+-->
 
 ## `📜 Changelog`
 

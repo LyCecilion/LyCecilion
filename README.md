@@ -29,7 +29,7 @@ $$
 
 ```text
 Instance:      Limity'roChen & LyCecilion
-Alias:         HoshiSumine (星澄音)
+Stage:         HoshiSumine (星澄音)
 Aka:           KaguReion (神楽坂 零音), 绫音Cecilion, LyRin-owo, protolyRin,
                CelestialTune (星吟音), stellalyRin (星澜音)
 Location:      LyRiverse Core; Xi'an, China in Layer 0
@@ -76,6 +76,7 @@ a documented [soul lineage](./LyRiverse/on-soul-lineage.md), and a growing
 | [XDOblivionisJudgement](https://github.com/LyCecilion/XDOblivionisJudgement) | LyCecilion's XDOJ solutions | ![GitHub last commit](https://img.shields.io/github/last-commit/LyCecilion/XDOblivionisJudgement?label=%20) |
 | [xidio](https://github.com/LyCecilion/xidio) | Xidian Internet Diagnostic Intelligence Operator | ![GitHub Tag](https://img.shields.io/github/v/tag/LyCecilion/xidio?label=%20) |
 | [LEDyRochen](https://github.com/LyCecilion/LEDyRochen) | CH546 11x44 LED Display flash tool | ![working](https://img.shields.io/badge/-working-blueviolet) |
+| [Ret2CLI](https://github.com/LyCecilion/ret2cli) | CLI client for Ret2Shell CTF platform | ![GitHub Tag](https://img.shields.io/github/v/tag/LyCecilion/ret2cli?label=%20) |
 
 ### `incubating`
 
@@ -83,6 +84,8 @@ a documented [soul lineage](./LyRiverse/on-soul-lineage.md), and a growing
 | ------- | ----------- | ------ |
 | LUMiOUS | RPG-like personal life management system | ![planning](https://img.shields.io/badge/-planning-yellow) |
 | [HoshiOS](https://github.com/LyCecilion/HoshiOS) | A tiny OS in Assembly and C — learning how a little universe boots | ![planning](https://img.shields.io/badge/-planning-yellow) |
+| Psychorus | Phigros chart player, running in a terminal | ![planning](https://img.shields.io/badge/-planning-yellow) |
+| \[REDACTED\] | \[REDACTED\] | |
 
 ### `archived`
 
@@ -120,8 +123,6 @@ Type:    ed25519
 ```
 
 [`public.asc`](./public.asc) is available in this repository.
-
-<!--
 
 ## `💻 Physical Layer`
 
@@ -171,8 +172,6 @@ Alibaba Cloud Linux 3.2104 U13.1 (OpenAnolis Edition).
 
 ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
--->
 
 ## `📜 Changelog`
 

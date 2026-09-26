@@ -1,1 +1,1 @@
-「初心忘るべからず。」
+Backward, go backward, turn back to the antemundane realm, go back to the -

@@ -1,0 +1,1 @@
+![LyCecilion](assets/cover-landscape-mocha-1920x1080.png)
